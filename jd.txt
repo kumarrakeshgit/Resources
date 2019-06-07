@@ -1,0 +1,17 @@
+JD
+
+ 
+
+Must have excellent practical understanding on Micro service based architecture. Must have designed applications using micro service design patterns.
+
+ 
+
+Must have experience in designing and implementation of Java development projects (1.8 Java version)
+
+ 
+
+o Exception Handling, Collections etc. Java Multithreading, Java Concurrency and Garbage Collections Concepts for Real-Time handling – building systems with high throughput and low latency.
+
+o Hands on Knowledge of J2EE (JSP/Servlets, JDBC, JMS), Java Script.
+
+o   Spring (MVC , DI, Transaction)
