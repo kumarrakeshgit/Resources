@@ -10,3 +10,4 @@ https://docs.sonarqube.org/latest/project-administration/project-existence/
 https://docs.sonarqube.org/latest/analysis/analysis-parameters/#AnalysisParameters-Database
 
 https://docs.sonarqube.org/latest/analysis/languages/javascript/
+https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
